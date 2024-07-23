@@ -1,0 +1,26 @@
+Processing golden search with epsilon, 1 , 10
+Processing golden search with epsilon, 0.5 , 11
+Processing golden search with epsilon, 0.25 , 13
+Processing golden search with epsilon, 0.125 , 14
+Processing golden search with epsilon, 0.0625 , 15
+Processing golden search with epsilon, 0.03125 , 17
+Processing golden search with epsilon, 0.015625 , 18
+Processing golden search with epsilon, 0.0078125 , 20
+Processing golden search with epsilon, 0.00390625 , 21
+Processing golden search with epsilon, 0.001953125 , 22
+Processing golden search with epsilon, 0.0009765625 , 23
+Processing golden search with epsilon, 0.00048828125 , 24
+Processing golden search with epsilon, 0.000244140625 , 26
+Processing golden search with epsilon, 0.0001220703125 , 29
+Processing golden search with epsilon, 6.103515625e-05 , 32
+Processing golden search with epsilon, 3.0517578125e-05 , 33
+Processing golden search with epsilon, 1.52587890625e-05 , 34
+Processing golden search with epsilon, 7.62939453125e-06 , 34
+Processing golden search with epsilon, 3.814697265625e-06 , 34
+Processing golden search with epsilon, 1.9073486328125e-06 , 34
+Processing golden search with epsilon, 9.5367431640625e-07 , 34
+Processing golden search with epsilon, 4.76837158203125e-07 , 36
+Processing golden search with epsilon, 2.384185791015625e-07 , 37
+Processing golden search with epsilon, 1.1920928955078125e-07 , 38
+Processing golden search with epsilon, 5.960464477539063e-08 , 40
+
